@@ -21,8 +21,6 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "Creality/Ender-5 Pro/BigTreeTech SKR Mini E3 3.0 with BLTouch-HighTemp"
-
 /**
  * Configuration_adv.h
  *

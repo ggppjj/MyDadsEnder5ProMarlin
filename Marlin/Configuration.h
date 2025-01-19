@@ -21,8 +21,6 @@
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "Creality/Ender-5 Pro/BigTreeTech SKR Mini E3 3.0 with BLTouch-HighTemp"
-
 /**
  * Configuration.h
  *
@@ -63,7 +61,7 @@
 // @section info
 
 // Author info of this build printed to the host during boot and M115
-#define STRING_CONFIG_H_AUTHOR "(C4rlos_E, Ender-5 Pro)" // Original author or contributor.
+#define STRING_CONFIG_H_AUTHOR "ggppjj, modified from example by C4rlos_E" // Original author or contributor.
 //#define CUSTOM_VERSION_FILE Version.h // Path from the root directory (no quotes)
 
 // @section machine
